@@ -1,0 +1,6 @@
+{
+  "name": "PakBank Compare AI",
+  "description": "Enterprise-grade Pakistan Banking Comparison Platform with AI Matchmaking, Sentiment Analysis, and Outage Monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
